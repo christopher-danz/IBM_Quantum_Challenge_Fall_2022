@@ -5,7 +5,7 @@ https://challenges.quantum-computing.ibm.com/fall-2022
 
 Resources:
 1) Qiskit "Understanding Quantum Information and Computation | Lesson 1" - https://www.youtube.com/watch?v=3-c4xJa7Flk
-2 ) Qiskit Textbook - https://qiskit.org/learn/
+2) Qiskit Textbook - https://qiskit.org/learn/
 3) What is Qiskit Runtime? - https://medium.com/qiskit/so-what-is-qiskit-runtime-anyway-c78aecf3742
 4) IBM Technology "What are Quantum Primitives?" - https://www.youtube.com/watch?v=kyLi8Gswpxo
 5) Quantum Machine Learning Course - https://qiskit.org/learn/course/machine-learning-course/
