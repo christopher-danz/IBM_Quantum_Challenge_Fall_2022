@@ -1,9 +1,13 @@
-# IBM_Quantum_Challenge_Fall_2022
-This repository will document lab sessions as well as work done during the IBM Quantum Challgenge Fall from november 11th to november 18th 2022.
+# IBM Quantum Challenge Fall 2022
 
-https://challenges.quantum-computing.ibm.com/fall-2022
+This repository will document lab sessions as well as work done during the IBM Quantum Challgenge Fall from november 11th to november 18th 2022 - https://challenges.quantum-computing.ibm.com/fall-2022
 
-Resources:
+## How to get started
+If you are running on your local systems, you may need to install Qiskit Runtime packages which can be dones uing: `pip install qiskit-ibm-runtime`. If you have navigated to the IBM Quantum Lab throught the IBM Quantum Challenge portal, then everything should already be setup for you.
+
+In general you can follow the lab session within the jupyter notebook provided, follow the steps for setup and for task completion.  
+
+## Resources:
 1) Qiskit "Understanding Quantum Information and Computation | Lesson 1" - https://www.youtube.com/watch?v=3-c4xJa7Flk
 2) Qiskit Textbook - https://qiskit.org/learn/
 3) What is Qiskit Runtime? - https://medium.com/qiskit/so-what-is-qiskit-runtime-anyway-c78aecf3742
